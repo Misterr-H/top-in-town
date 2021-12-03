@@ -31,8 +31,8 @@ const bcrypt = require('bcryptjs')
 // app.use(passport.session());
 
 
-const CLIENT_ID = '97614118400-9k63il5p9ebrdiinmjtn7p0rlpg236jt.apps.googleusercontent.com'
-const CLIENT_SECRET = 'HK5xpsaabnTq5lbXOJfTILhq'
+const CLIENT_ID = <Your Client ID>
+const CLIENT_SECRET = <Your Client Secret>
 const REDIRECT_URI = 'https://developers.google.com/oauthplayground'
 
 const REFRESH_TOKEN = '1//04zZdHGNLLAURCgYIARAAGAQSNwF-L9Ir-uYLBOw9OLzFgoaKjYO6D71xvVFvgEBpy5jbvfkT9nXwPl-zXlXlr3IRrHESeg8LqKE'
