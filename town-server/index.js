@@ -35,7 +35,7 @@ const CLIENT_ID = <Your Client ID>
 const CLIENT_SECRET = <Your Client Secret>
 const REDIRECT_URI = 'https://developers.google.com/oauthplayground'
 
-const REFRESH_TOKEN = '1//04zZdHGNLLAURCgYIARAAGAQSNwF-L9Ir-uYLBOw9OLzFgoaKjYO6D71xvVFvgEBpy5jbvfkT9nXwPl-zXlXlr3IRrHESeg8LqKE'
+const REFRESH_TOKEN = <Your Refresh Token>
 
 const oauth2Client = new google.auth.OAuth2(
     CLIENT_ID,
